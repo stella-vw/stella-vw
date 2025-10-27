@@ -1,2 +1,2 @@
-U1 Computer Engineering Student at McGill University
-stellavandewater2024@gmail.com
+- U1 Computer Engineering Student at McGill University
+- stellavandewater2024@gmail.com
